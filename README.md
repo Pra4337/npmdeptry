@@ -3,10 +3,15 @@
 step1 :- git clone https://github.com/Pra4337/npmdeptry.git
 
 step 2:-cd npmdeptry
+
   npm init -y 
+  
   npm install react react-dom typescript
+  
   npm i @types/react
+  
   npx tsc --init
+  
   npx sb init 
 
 
