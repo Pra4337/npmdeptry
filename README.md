@@ -1,5 +1,5 @@
 # npmdeptry
-
+ always use LTs version of node
 step1 :- git clone https://github.com/Pra4337/npmdeptry.git
 
 step 2:-cd npmdeptry
